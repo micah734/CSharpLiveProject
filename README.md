@@ -56,5 +56,7 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 <li>Learning the use of Version Control software Git and how to merge changes and deal with merge conflicts</li>
 <li>Learning from other developers by observing their workflow and asking questions</li>
 <li>Practicing the use of SCRUM and Agile methodolgy in a group situation</li>
+<li>Learned use of Visual Studio</li>
+<li>Learned how to use Azure Devops</li>
 
 
