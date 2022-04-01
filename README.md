@@ -3,7 +3,7 @@
 
 <h2>Introduction</h2>
 
-<p>For the lst two weeks of my time at the Tech Academy, I worked with my peers in a team developing a full scale MVC Web application in C# and .Net Framework. I used ths opportunity to learn and develop my skills in Front-End coding and Back-end coding. My job was to do as best as possible in the time alloted. I saw how good developers work with each other and develop a high quality program. I had a wide different number of stories from front-end stories that I am very proud of showcasing my abilities in CSS, HTML and Boostrap. I also had the chance to work on Back-end stories, showing what a Full-Stack Developer would do on a normal basis. I am very proud at the chance I had to work on both types of stories. During this time I also had the chance to learn about more project development using SCRUM and Agile methods.  Throughout all of this, I have learned the necessary skills that I am confident that I will use again and again on future projects.
+<p>For the lst two weeks of my time at the Tech Academy, I worked with my peers in a team developing a full scale MVC Web application in C# and .Net Framework. I used ths opportunity to learn and develop my skills in <a href=https://github.com/micah734/CSharpLiveProject/edit/main/README.md#front-end-story>Front-End coding</a> and <a href=https://github.com/micah734/CSharpLiveProject/blob/main/README.md#back-end-story>Back-end coding</a>. My job was to do as best as possible in the time alloted. I saw how good developers work with each other and develop a high quality program. I had a wide different number of stories from front-end stories that I am very proud of showcasing my abilities in CSS, HTML and Boostrap. I also had the chance to work on Back-end stories, showing what a Full-Stack Developer would do on a normal basis. I am very proud at the chance I had to work on both types of stories. During this time I also had the chance to learn about more project development using SCRUM and Agile methods.  Throughout all of this, I have learned the necessary skills that I am confident that I will use again and again on future projects.
 
 Below are descriptions of the stories I worked on, along with code snippets and navigations links.</p>
 
@@ -53,7 +53,7 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 <li> Working with groups of developers to identify front and back end to improve usability of an application</li>
 <li>Improving project capablities with new features</li>
 <li>Dealing with bug issues and fixing them before updating</li>
-<li>Learning the use of Version Control software Git and how to merge changes and deal with merge conflicts<li>
+<li>Learning the use of Version Control software Git and how to merge changes and deal with merge conflicts</li>
 <li>Learning from other developers by observing their workflow and asking questions</li>
 <li>Practicing the use of SCRUM and Agile methodolgy in a group situation</li>
 
