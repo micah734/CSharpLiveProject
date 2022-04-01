@@ -8,7 +8,7 @@
 Below are descriptions of the stories I worked on, along with code snippets and navigations links.</p>
 
 <h2>Back-End Story</h2>
-<li><a href=https://github.com/micah734/CSharpLiveProject/edit/main/README.md#form-and-database-creation>Form and Database Creation CRUD</a></li>
+<li><a href=https://github.com/micah734/CSharpLiveProject/blob/main/README.md#form-and-database-creation>Form & Database Creation</a></li>
 <li><a href=https://github.com/micah734/CSharpLiveProject/blob/main/README.md#picture-upload-to-database> Picture Upload</a></li>
 
 <h3>Form and Database Creation</h3>
@@ -29,8 +29,8 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 
 <h2>Front-End Story</h2>
 
-<li><a href=https://github.com/micah734/CSharpLiveProject/edit/main/README.md#main-page-design>Main Page Design</a></li>
-<li><a href=https://github.com/micah734/CSharpLiveProject/edit/main/README.md#styling-create--edit-page>Styling the Create & Edit page</a></li>
+<li><a href=https://github.com/micah734/CSharpLiveProject/blob/main/README.md#main-page-design>Main Page Design</a></li>
+<li><a href=https://github.com/micah734/CSharpLiveProject/blob/main/README.md#styling-create--edit-page>Styling the Create & Edit page</a></li>
 
 <h3>Main Page Design</h3>
 
