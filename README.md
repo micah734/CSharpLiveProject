@@ -14,7 +14,8 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 <h2>Form and Database Creation</h2>
 
 <p> Through this story I had to create an entity model for Cast Members with an Enum, and a Byte[] with required fields and fields that were optional. After creating the model I had to scaffold the CRUD pages with the model using EntityFramework and code-first database.</p>
-![image](https://user-images.githubusercontent.com/19351740/161330777-b6d27b66-e8e7-4f38-95e9-abebbf0b8e36.png)
+![image](https://user-images.githubusercontent.com/19351740/161332011-eb980cc5-1aca-47a5-8235-7b9f2acabc5a.png)
+
 
 <h2>Picture Upload to Database</h2>
 
