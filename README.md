@@ -1,2 +1,5 @@
-# CSharpLiveProject
-2 Week Live Project
+# C# Live Project
+
+For the lst two weeks of my time at the Tech Academy, I worked with my peers in a team developing a full scale MVC Web application in C# and .Net Framework. I used ths opportunity to learn and develop my skills in Front-End coding and Back-end coding. My job was to do as best as possible in the time alloted. I saw how good developers work with each other and develop a high quality program. I had a wide different number of stories from front-end stories that I am very proud of showcasing my abilities in CSS, HTML and Boostrap. I also had the chance to work on Back-end stories, showing what a Full-Stack Developer would do on a normal basis. I am very proud at the chance I had to work on both types of stories. During this time I also had the chance to learn about more project development using SCRUM and Agile methods.  Throughout all of this, I have learned the necessary skills that I am confident that I will use again and again on future projects.
+
+Below are descriptions of the stories I worked on, along with code snippets and navigations links.
